@@ -17,6 +17,8 @@ let double3 = 3.0
 let int1 = 3
 
 var name = "Nicolas Cage"
+name = "John Travolta"
+//name = 57 // not allowed
 
 var rating = 5.0
 rating *= 2
